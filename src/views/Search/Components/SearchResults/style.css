@@ -1,0 +1,12 @@
+.show-alert{  
+    margin: 5px;  
+    display: none;
+}
+
+.alert--ocultar{
+    display: none;
+}
+
+.alert--mostrar{
+    display: block;
+}
